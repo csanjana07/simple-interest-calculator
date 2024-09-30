@@ -42,3 +42,4 @@ This repository contains a script to calculate simple interest.
    - The script will calculate and display the simple interest based on your input.
 
 **Example:**
+
