@@ -4,6 +4,7 @@ We welcome contributions from the community! This document outlines how you can 
 
 **Getting Started:**
 
+
 - Fork this repository.
 - Clone your forked repository to your local machine.
 - Make changes to the code.
